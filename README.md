@@ -16,6 +16,7 @@
 | [1565-evaluate-boolean-expression](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1565-evaluate-boolean-expression) |
 | [1718-warehouse-manager](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1718-warehouse-manager) |
 | [1749-sellers-with-no-sales](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1749-sellers-with-no-sales) |
+| [1892-find-total-time-spent-by-each-employee](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1974-find-customers-with-positive-revenue-this-year](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1974-find-customers-with-positive-revenue-this-year) |
 | [2024-calculate-special-bonus](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/2024-calculate-special-bonus) |
 | [2041-the-latest-login-in-2020](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/2041-the-latest-login-in-2020) |
