@@ -15,6 +15,7 @@
 | [1536-customers-who-bought-products-a-and-b-but-not-c](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1536-customers-who-bought-products-a-and-b-but-not-c) |
 | [1541-top-travellers](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1541-top-travellers) |
 | [1565-evaluate-boolean-expression](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1565-evaluate-boolean-expression) |
+| [1578-apples-oranges](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1578-apples-oranges) |
 | [1718-warehouse-manager](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1718-warehouse-manager) |
 | [1749-sellers-with-no-sales](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1749-sellers-with-no-sales) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1892-find-total-time-spent-by-each-employee) |
