@@ -5,6 +5,7 @@
 |  |
 | ------- |
 | [0175-combine-two-tables](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/0175-combine-two-tables) |
+| [0182-duplicate-emails](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/0182-duplicate-emails) |
 | [0183-customers-who-never-order](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/0183-customers-who-never-order) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/0586-customer-placing-the-largest-number-of-orders) |
 | [0607-sales-person](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/0607-sales-person) |
