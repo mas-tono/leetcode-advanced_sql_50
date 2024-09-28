@@ -18,6 +18,7 @@
 | [1541-top-travellers](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1541-top-travellers) |
 | [1565-evaluate-boolean-expression](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1565-evaluate-boolean-expression) |
 | [1578-apples-oranges](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1578-apples-oranges) |
+| [1654-customer-order-frequency](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1654-customer-order-frequency) |
 | [1718-warehouse-manager](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1718-warehouse-manager) |
 | [1734-bank-account-summary-ii](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1734-bank-account-summary-ii) |
 | [1749-sellers-with-no-sales](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1749-sellers-with-no-sales) |
