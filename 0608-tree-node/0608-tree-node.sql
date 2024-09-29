@@ -24,3 +24,22 @@ from secondd)
 
 select id, type
 from thirdd
+
+
+
+-- select distinct t1.id, case when t1.p_id is null then 'Root'
+-- when t2.p_id is null then 'Leaf'
+-- else 'Inner' end as Type
+-- from tree t1
+-- left join tree t2 
+-- on t1.id = t2.p_id
+
+-- -----or------
+
+-- select id,
+-- case when p_id is null then 'Root'
+--      when id in (select distinct p_id from tree) then 'Inner'
+--      else 'Leaf' end as Type
+-- from tree
+
+
