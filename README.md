@@ -15,6 +15,7 @@
 | [1214-highest-grade-for-each-student](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1214-highest-grade-for-each-student) |
 | [1291-immediate-food-delivery-i](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1291-immediate-food-delivery-i) |
 | [1339-team-scores-in-football-tournament](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1339-team-scores-in-football-tournament) |
+| [1399-page-recommendations](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1399-page-recommendations) |
 | [1536-customers-who-bought-products-a-and-b-but-not-c](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1536-customers-who-bought-products-a-and-b-but-not-c) |
 | [1541-top-travellers](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1541-top-travellers) |
 | [1565-evaluate-boolean-expression](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1565-evaluate-boolean-expression) |
