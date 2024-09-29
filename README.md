@@ -22,6 +22,7 @@
 | [1718-warehouse-manager](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1718-warehouse-manager) |
 | [1734-bank-account-summary-ii](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1734-bank-account-summary-ii) |
 | [1749-sellers-with-no-sales](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1749-sellers-with-no-sales) |
+| [1837-daily-leads-and-partners](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1837-daily-leads-and-partners) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1974-find-customers-with-positive-revenue-this-year](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1974-find-customers-with-positive-revenue-this-year) |
 | [2024-calculate-special-bonus](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/2024-calculate-special-bonus) |
