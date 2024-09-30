@@ -30,6 +30,7 @@
 | [1749-sellers-with-no-sales](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1749-sellers-with-no-sales) |
 | [1837-daily-leads-and-partners](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1837-daily-leads-and-partners) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1892-find-total-time-spent-by-each-employee) |
+| [1932-grand-slam-titles](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1932-grand-slam-titles) |
 | [1948-rearrange-products-table](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1948-rearrange-products-table) |
 | [1974-find-customers-with-positive-revenue-this-year](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1974-find-customers-with-positive-revenue-this-year) |
 | [2024-calculate-special-bonus](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/2024-calculate-special-bonus) |
