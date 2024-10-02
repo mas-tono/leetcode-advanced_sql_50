@@ -9,6 +9,7 @@
 | [0183-customers-who-never-order](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/0183-customers-who-never-order) |
 | [0184-department-highest-salary](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/0184-department-highest-salary) |
 | [0586-customer-placing-the-largest-number-of-orders](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/0586-customer-placing-the-largest-number-of-orders) |
+| [0603-consecutive-available-seats](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/0603-consecutive-available-seats) |
 | [0607-sales-person](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/0607-sales-person) |
 | [0608-tree-node](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/0608-tree-node) |
 | [0613-shortest-distance-in-a-line](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/0613-shortest-distance-in-a-line) |
