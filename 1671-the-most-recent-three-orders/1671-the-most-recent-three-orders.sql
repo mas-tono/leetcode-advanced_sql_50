@@ -1,6 +1,6 @@
 /* Write your T-SQL query statement below */
 
--- some test case contains different customer_id with same customer_name, so make sure to use partition_by customer_name & customer_id
+-- some test cases contain different customer_id with same customer_name, so make sure to use partition_by customer_name & customer_id
 --     e.g: yaffah (86) and yaffah (99)
 
 with firstt as (select c.name as customer_name, 
