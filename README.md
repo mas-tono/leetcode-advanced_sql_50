@@ -35,6 +35,7 @@
 | [1688-the-most-recent-orders-for-each-product](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1688-the-most-recent-orders-for-each-product) |
 | [1718-warehouse-manager](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1718-warehouse-manager) |
 | [1734-bank-account-summary-ii](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1734-bank-account-summary-ii) |
+| [1735-the-most-frequently-ordered-products-for-each-customer](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1735-the-most-frequently-ordered-products-for-each-customer) |
 | [1749-sellers-with-no-sales](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1749-sellers-with-no-sales) |
 | [1837-daily-leads-and-partners](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1837-daily-leads-and-partners) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1892-find-total-time-spent-by-each-employee) |
