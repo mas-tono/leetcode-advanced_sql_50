@@ -31,6 +31,7 @@
 | [1639-friendly-movies-streamed-last-month](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1639-friendly-movies-streamed-last-month) |
 | [1641-countries-you-can-safely-invest-in](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1641-countries-you-can-safely-invest-in) |
 | [1654-customer-order-frequency](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1654-customer-order-frequency) |
+| [1671-the-most-recent-three-orders](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1671-the-most-recent-three-orders) |
 | [1688-the-most-recent-orders-for-each-product](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1688-the-most-recent-orders-for-each-product) |
 | [1718-warehouse-manager](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1718-warehouse-manager) |
 | [1734-bank-account-summary-ii](https://github.com/mas-tono/leetcode-advanced_sql_50/tree/master/1734-bank-account-summary-ii) |
