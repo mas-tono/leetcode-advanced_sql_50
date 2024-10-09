@@ -1,5 +1,10 @@
 /* Write your T-SQL query statement below */
 
+
+-- kinda tricky, but the clue is in this 'each pair of distinct persons (person1, person2) where person1 < person2'
+
+-- modify all pair column based on condition person1 < person2
+
 with firstt as (select *,
     case
         when from_id < to_id then from_id else to_id
